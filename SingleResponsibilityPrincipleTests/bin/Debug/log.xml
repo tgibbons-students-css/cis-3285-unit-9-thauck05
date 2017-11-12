@@ -1,0 +1,17 @@
+<log><message>Trade amount too low: '999'</message></log> 
+<log><message>Trade amount too low: '-10000'</message></log> 
+<log><message>Trade amount too low: '999'</message></log> 
+<log><message>Trade amount too low: '-10000'</message></log> 
+<log><message>Trade amount is too high: '1000000'</message></log> 
+<log><message>Trade amount is too high: '1000001'</message></log> 
+<log><message>Trade amount too low: '999'</message></log> 
+<log><message>Trade amount too low: '-10000'</message></log> 
+<log><message>Trade amount is too high: '1000000'</message></log> 
+<log><message>Trade amount is too high: '1000001'</message></log> 
+<log><message>Trade amount too low: '999'</message></log> 
+<log><message>Trade amount too low: '-10000'</message></log> 
+<log><message>Trade amount is too high: '1000000'</message></log> 
+<log><message>Trade amount is too high: '1000001'</message></log> 
+<log><message>Trade amount too low: '999'</message></log> 
+<log><message>Trade amount too low: '-10000'</message></log> 
+<log><message>Trade amount is too high: '1000001'</message></log> 
